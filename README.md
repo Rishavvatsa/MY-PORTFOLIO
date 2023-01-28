@@ -14,8 +14,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
 
 ## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](![image](https://user-images.githubusercontent.com/95865069/215290205-e862bb82-cdb4-4bd3-b460-4ff27b9acd06.png))
-![ss](![image](https://user-images.githubusercontent.com/95865069/215290240-c1b9ee18-81d1-4fc1-9196-e97d4904dee1.png))
+![image](https://user-images.githubusercontent.com/95865069/215290205-e862bb82-cdb4-4bd3-b460-4ff27b9acd06.png)
+![image](https://user-images.githubusercontent.com/95865069/215290240-c1b9ee18-81d1-4fc1-9196-e97d4904dee1.png)
 
 
 <h2>📬 Contact</h2>
@@ -25,7 +25,7 @@ If you want to contact me, you can reach me through below handles.
 
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/rishav-kumar-324bab205/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-© 2022 Jigar Sable
+
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
