@@ -1,0 +1,48 @@
+[
+  
+  {
+    "name": "Hospital Management System",
+    "desc": " A Front-end project on Hospital Management System. Developed a web-based hospital management system using HTML, CSS, and JavaScript.• Designed a user-friendly interface for easy navigation and data entry.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "view": "https://rishavvatsa.github.io/hospital.github.io/",
+      "code": "https://github.com/Rishavvatsa/hospital.github.io"
+    }
+  },
+  {
+    "name": "Face Recognition Attendence System",
+    "desc": " Face recognition attendance system is a python-based application that uses different algorithms to recognise human faces.• It allows the user to accurately and efficiently monitor the attendance of personnel in an organization.",
+    "image": "FRAT",
+    "category": "FRAT",
+    "links": {
+      
+      "code": "https://github.com/Rishavvatsa/Face-Recognition-Attendence-System"
+    }
+
+  },
+  {
+    "name": "Licence Plate Detection and Recognition",
+    "desc": "Licence Plate Detection and Recognition using Python is a computer vision project that utilizes various image processing techniques to detect and recognize licence plate numbers from images or videos. Utilize computer vision algorithms to localize, segment and read licence ",
+    "image": "Screenshot_20230104_144036",
+    "category": "licence",
+    "links": {
+      
+      "code": "https://github.com/Rishavvatsa/Licence-plate-Detection-using-OCR"
+    }
+  },
+  {
+    "name": "Movie Search App",
+    "desc": "A website to search any movie and read about the movie and its rating",
+    "image": "movie",
+    "category": "movie",
+    "links": {
+      
+      "code": "https://github.com/Rishavvatsa/Movie-App",
+      "view":"https://rishavvatsa.github.io/Movie-App/"
+    }
+  }
+
+
+  
+]
