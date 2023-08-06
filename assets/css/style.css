@@ -319,7 +319,7 @@ header .navbar ul li a:hover {
   background-color: #070707;
 }
 .social-icons a.instagram:hover {
-  background-color: #ee00da;
+  background-color: #110547;
 }
 /* social icons end */
 
@@ -703,7 +703,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .Project .desc p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .Project .desc .btns {
   display: flex;
@@ -722,7 +722,7 @@ header .navbar ul li a:hover {
   margin-right: 2rem;
 }
 .Project .desc .btns .btn:hover {
-  background: #310ae0f5;
+  background: #3a0e67f5;
 }
 .Project .viewall {
   display: flex;

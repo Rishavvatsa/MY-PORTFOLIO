@@ -1,5 +1,26 @@
-[
-  
+[{
+  "name": "Movie Search App",
+  "desc": "A website to search any movie and read about the movie and its rating",
+  "image": "movie",
+  "category": "movie",
+  "links": {
+    
+    "code": "https://github.com/Rishavvatsa/Movie-App",
+    "view":"https://rishavvatsa.github.io/Movie-App/"
+  }
+},
+
+  {
+    "name": "Online Code Editor using Reactjs",
+    "desc": "An online code editor project built using React.js and CodeMirror, providing a dynamic collaborative coding environment. It features syntax highlighting, code execution, and a variety of themes for customization.",
+    "image": "Online Code Editor",
+    "category": "Code",
+    "links": {
+      "view": "https://reactpen.vercel.app/",
+      "code": "https://github.com/Rishavvatsa/Online-Code-Editor"
+    }
+
+  },
   {
     "name": "Hospital Management System",
     "desc": " A Front-end project on Hospital Management System. Developed a web-based hospital management system using HTML, CSS, and JavaScript.• Designed a user-friendly interface for easy navigation and data entry.",
@@ -31,17 +52,19 @@
       "code": "https://github.com/Rishavvatsa/Licence-plate-Detection-using-OCR"
     }
   },
-  {
-    "name": "Movie Search App",
-    "desc": "A website to search any movie and read about the movie and its rating",
-    "image": "movie",
-    "category": "movie",
-    "links": {
-      
-      "code": "https://github.com/Rishavvatsa/Movie-App",
-      "view":"https://rishavvatsa.github.io/Movie-App/"
+    {
+      "name": "Calculator App",
+      "desc": "Calculator App",
+      "image": "calci",
+      "category": "calci",
+      "links": {
+        
+        "code": "https://github.com/Rishavvatsa/Calculator",
+        "view":"https://rishavvatsa.github.io/Calculator/"
+      }
     }
-  }
+  
+  
 
 
   
