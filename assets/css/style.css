@@ -71,7 +71,7 @@ header {
   padding: 1.7rem 10%;
   height: 6.5rem;
   background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.3);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 12px;
 }
 section {
   min-height: 100vh;
@@ -87,7 +87,7 @@ section {
   color: rgb(115, 3, 167);
 }
 header .logo {
-  font-size: 1.9rem;
+  font-size: 2.5rem;
   font-weight: 800;
   text-decoration: none;
   color: #0e2431;
@@ -96,7 +96,7 @@ header .logo i {
   font-size: 2.2rem;
 }
 header .logo:hover {
-  color: #fc8c05;
+  color: #3391ee;
 }
 header .navbar ul {
   list-style: none;
@@ -319,7 +319,7 @@ header .navbar ul li a:hover {
   background-color: #070707;
 }
 .social-icons a.instagram:hover {
-  background-color: #110547;
+  background-color: #170687;
 }
 /* social icons end */
 
@@ -703,7 +703,7 @@ header .navbar ul li a:hover {
   justify-content: center;
 }
 .Project .desc p {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
 }
 .Project .desc .btns {
   display: flex;
@@ -722,7 +722,7 @@ header .navbar ul li a:hover {
   margin-right: 2rem;
 }
 .Project .desc .btns .btn:hover {
-  background: #3a0e67f5;
+  background: #310ae0f5;
 }
 .Project .viewall {
   display: flex;
