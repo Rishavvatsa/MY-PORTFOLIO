@@ -198,8 +198,8 @@ header .navbar ul li a:hover{
 .Project .box-container{
   display: flex;
   flex-wrap: wrap;
-  gap:1.5rem;
-  margin: 2rem;
+  gap:1.8rem;
+  margin: 2.5rem;
 }
 .Project .box-container .box{
   flex:1 1 30rem;
@@ -207,9 +207,10 @@ header .navbar ul li a:hover{
   box-shadow: 0 .7rem 1rem rgba(0,0,0,.3);
   position: relative;
   overflow:hidden;
-  height:30rem;
+  height:32rem;
   background: #fff;
   border: none;
+ 
 }
 .Project .box-container .box img{
   height: 100%;
@@ -220,10 +221,11 @@ header .navbar ul li a:hover{
   height: 100%;
   width:100%;
   position: absolute;
-  top:85%; left:0;
+  top:80%; left:0;
   background:rgba(255, 255, 255, 0.9);
   display: flex;
   flex-direction: column;
+  
 }
 .Project .box-container .box .content .tag{
   display: flex;
@@ -248,13 +250,14 @@ header .navbar ul li a:hover{
   justify-content: center;
 }
 .Project .desc p{
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 .Project .desc .btns{
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-top: 2rem;
+  
 }
 .Project .desc .btns .btn{
   line-height: 0;
@@ -350,4 +353,3 @@ header .navbar ul li a:hover{
 #scroll-top.active{
   top: calc(100% - 12rem);
 }
-/* scroll top ends */
