@@ -54,7 +54,7 @@
   },
     {
       "name": "Full Stack Food Delivery App",
-      "desc": "Fullstack Food Delivery Application using MERN ",
+      "desc": "A MERN-based food delivery application is a web application developed using the MERN stack, which includes MongoDB, Express.js, React, and Node.js. This application allows users to conveniently order food online , browse menus, customize their orders, and have the food delivered to their specified location with minimum price ",
       "image": "Food",
       "category": "Food",
       "links": {
