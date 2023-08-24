@@ -53,14 +53,14 @@
     }
   },
     {
-      "name": "Calculator App",
-      "desc": "Calculator App",
-      "image": "calci",
-      "category": "calci",
+      "name": "Full Stack Food Delivery App",
+      "desc": "Fullstack Food Delivery Application using MERN ",
+      "image": "Food",
+      "category": "Food",
       "links": {
         
-        "code": "https://github.com/Rishavvatsa/Calculator",
-        "view":"https://rishavvatsa.github.io/Calculator/"
+        "code": "https://github.com/Rishavvatsa/Food-Delivery-App-using-Reactjs-MongoDB",
+        "view":"https://bitebazaar.vercel.app/"
       }
     }
   
