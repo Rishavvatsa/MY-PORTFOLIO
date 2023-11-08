@@ -12,11 +12,11 @@
 
   {
     "name": "Online Code Editor using Reactjs",
-    "desc": "An online code editor project built using React.js and CodeMirror, providing a dynamic collaborative coding environment. It features syntax highlighting, code execution, and a variety of themes for customization.",
+    "desc": "An online code editor project built using React.js and CodeMirror, providing a dynamic collaborative coding environment.for web development. It features syntax highlighting, code execution, and a variety of themes for customization.",
     "image": "Online Code Editor",
     "category": "Code",
     "links": {
-      "view": "https://reactpen.vercel.app/",
+      "view": "https://mycodepen.vercel.app/",
       "code": "https://github.com/Rishavvatsa/Online-Code-Editor"
     }
 
