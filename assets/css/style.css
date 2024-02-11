@@ -358,19 +358,22 @@ header .navbar ul li a:hover {
 .about .row .image {
   text-align: center;
   flex: 1 1 35rem;
+  
 }
 .about .row .image img {
   margin: 4rem;
-  width: 30rem;
+  width: 35rem;
   height: auto;
-  border-radius: 5%;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
-  mix-blend-mode: luminosity;
+  border-radius: 50%;
+  /*box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);*/
+  box-shadow: rgb(6, 6, 6) 0px 20px 30px -10px;
+  mix-blend-mode:normal;
   transition: 0.3s;
   cursor: pointer;
 }
 .about .row .image img:hover {
-  mix-blend-mode: normal;
+  mix-blend-mode: luminosity;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
 }
 .about .row .content {
   flex: 1 1 45rem;
@@ -425,14 +428,16 @@ header .navbar ul li a:hover {
 }
 .resumebtn .btn i {
   margin-left: 0.3rem;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   transition: 0.3s;
 }
 .resumebtn .btn:hover {
   background: #1a047e;
 }
+
 .resumebtn .btn:hover i {
   transform: translateX(5px);
+
 }
 /* about media queries starts*/
 @media screen and (max-width: 600px) {
